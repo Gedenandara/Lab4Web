@@ -1,6 +1,6 @@
 # Praktikum 4 - Pemrograman Web (CSS Layout)
 
-### Rofi Ismail - 311910657
+### I Gede Krishna Yogananda Raken Putra - 311910429
 
 ### TI.19.A.2
 
