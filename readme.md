@@ -117,9 +117,6 @@ Hasilnya:
 ### Lalu menambahkan CSS.
 ![SS7-1](https://user-images.githubusercontent.com/56240078/115169168-7376ff00-a0e7-11eb-9f81-3168d64f13fe.jpg)
 
-### Hasilnya saat menekan menu About akan dialihkan ke halaman berikut:
-![SS7-2](https://user-images.githubusercontent.com/56240078/115169169-74a82c00-a0e7-11eb-8ef9-80fe45c05d9c.jpg)
-
 ## 2. Menambahkan Layout pada menu Contact
 ### Membuat dokumen html dengan nama `kontak.html` sebagai berikut.
 ![SS7-3](https://user-images.githubusercontent.com/56240078/115169171-7540c280-a0e7-11eb-83cb-1685a1c9e682.jpg)
